@@ -1,5 +1,5 @@
 # AWS & ASK CLI Setup Guide
-[AWS Account](new-aws-account.md) | **[AWS CLI](aws-cli-setup-intro.html)** | [AWS CLI Profile](aws-cli-setup-profile.html) | [Amazon Developer Account](dev-portal-intro.html) | [ASK CLI](ask-cli-setup-intro.html) | [ASK CLI Profile](ask-cli-setup-profile.md) | [Deploy a Skill](deploy-sample-skill.html)
+[AWS Account](new-aws-account.md) | **[AWS CLI](aws-cli-setup-intro.md)** | [AWS CLI Profile](aws-cli-setup-profile.md) | [Amazon Developer Account](dev-portal-intro.md) | [ASK CLI](ask-cli-setup-intro.md) | [ASK CLI Profile](ask-cli-setup-profile.md) | [Deploy a Skill](deploy-sample-skill.md)
 
 
 
@@ -37,4 +37,4 @@ If the CLI is not installed, then you will get an error back stating that `aws` 
 
 Next steps:
 
-## [Setup an AWS CLI Profile](aws-cli-setup-profile.md) | [Install the AWS CLI](aws-cli-setup-install.html).
+## [Setup an AWS CLI Profile](aws-cli-setup-profile.md) | [Install the AWS CLI](aws-cli-setup-install.md).

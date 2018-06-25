@@ -1,5 +1,5 @@
 # AWS & ASK CLI Setup Guide
-[AWS Account](new-aws-account.md) | **[AWS CLI](aws-cli-setup-intro.html)** | [AWS CLI Profile](aws-cli-setup-profile.html) | [Amazon Developer Account](dev-portal-intro.html) | [ASK CLI](ask-cli-setup-intro.html) | [ASK CLI Profile](ask-cli-setup-profile.md) | [Deploy a Skill](deploy-sample-skill.html)
+[AWS Account](new-aws-account.md) | **[AWS CLI](aws-cli-setup-intro.md)** | [AWS CLI Profile](aws-cli-setup-profile.md) | [Amazon Developer Account](dev-portal-intro.md) | [ASK CLI](ask-cli-setup-intro.md) | [ASK CLI Profile](ask-cli-setup-profile.md) | [Deploy a Skill](deploy-sample-skill.md)
 
 
 
@@ -15,7 +15,7 @@ The `awscli` package is available in repositories for other package managers suc
 
 
 
-**Note**: If you already have the CLI installed, continue to [Setup an AWS CLI Profile](aws-cli-setup-profile.md), or, if you don't have an AWS account, follow the [guide to create an AWS account](new-aws-account.html) first.
+**Note**: If you already have the CLI installed, continue to [Setup an AWS CLI Profile](aws-cli-setup-profile.md), or, if you don't have an AWS account, follow the [guide to create an AWS account](new-aws-account.md) first.
 
 
 

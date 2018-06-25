@@ -1,5 +1,5 @@
 # AWS & ASK CLI Setup Guide
-[AWS Account](new-aws-account.md) | **[AWS CLI](aws-cli-setup-intro.html)** | [AWS CLI Profile](aws-cli-setup-profile.html) | [Amazon Developer Account](dev-portal-intro.html) | [ASK CLI](ask-cli-setup-intro.html) | [ASK CLI Profile](ask-cli-setup-profile.md) | [Deploy a Skill](deploy-sample-skill.html)
+[AWS Account](new-aws-account.md) | **[AWS CLI](aws-cli-setup-intro.md)** | [AWS CLI Profile](aws-cli-setup-profile.md) | [Amazon Developer Account](dev-portal-intro.md) | [ASK CLI](ask-cli-setup-intro.md) | [ASK CLI Profile](ask-cli-setup-profile.md) | [Deploy a Skill](deploy-sample-skill.md)
 
 
 
@@ -7,7 +7,7 @@
 
 You can install the AWS CLI on Windows with a standalone installer or `pip`, a package manager for Python. If you already have Python and `pip`, follow the instructions for installing using pip as that makes upgrading to newer versions easier, otherwise the MSI Installer provides a streamlined experience.
 
-**Note**: If you already have the CLI installed, continue to [Setup an AWS CLI Profile](aws-cli-setup-profile.md), or, if you don't have an AWS account, follow the [guide to create an AWS account](new-aws-account.html) first.
+**Note**: If you already have the CLI installed, continue to [Setup an AWS CLI Profile](aws-cli-setup-profile.md), or, if you don't have an AWS account, follow the [guide to create an AWS account](new-aws-account.md) first.
 
 
 
