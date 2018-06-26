@@ -21,7 +21,7 @@ When updates are released, you must repeat the installation process to get the l
 
 1. [Download the AWS CLI MSI installer for Windows](https://s3.amazonaws.com/aws-cli/AWSCLISetup.exe)
 
-   **Note** *The MSI installer for the AWS CLI does not work with Windows Server 2008 (version 6.0.6002). Use [pip](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.md#awscli-install-windows-pip) to install with this version of Windows.*
+   **Note** *The MSI installer for the AWS CLI does not work with Windows Server 2008 (version 6.0.6002). Use [pip](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.html#awscli-install-windows-pip) to install with this version of Windows.*
 
 2. Run the downloaded MSI installer.
 
@@ -33,7 +33,7 @@ The CLI installs to `C:\Program Files\Amazon\AWSCLI` (64-bit) or `C:\Program Fil
 
 **Troubleshooting**
 
-If after installing the `aws` command doesn't work, you may need to update your OS's `PATH` environment variable. Follow the instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.md#awscli-install-windows-path).
+If after installing the `aws` command doesn't work, you may need to update your OS's `PATH` environment variable. Follow the instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.html#awscli-install-windows-path).
 
 
 
