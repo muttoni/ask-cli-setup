@@ -111,9 +111,9 @@ aws-cli/1.11.84 Python/3.6.2 Linux/4.4.0-59-generic botocore/1.5.47
 
 **Troubleshooting**
 
-If after installing the `aws` command doesn't work, you may need to update your OS's `PATH` environment variable. Follow the instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.md#awscli-install-linux-path).
+If after installing the `aws` command doesn't work, you may need to update your OS's `PATH` environment variable. Follow the instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.html#awscli-install-linux-path).
 
-You may also need to ensure that the `aws` script has a file mode that is executable. Follow instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/troubleshooting.md).
+You may also need to ensure that the `aws` script has a file mode that is executable. Follow instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/troubleshooting.html).
 
 
 
