@@ -55,7 +55,7 @@ After this, the skill folder structure should look like this:
 
 > For more information on ASK CLI Configuration see CLI Setup.
 
-> For more information on the Skill Manifest, see the [developer documentation.](https://developer.amazon.com/docs/smapi/skill-manifest.md)
+> For more information on the Skill Manifest, see the [developer documentation.](https://developer.amazon.com/docs/smapi/skill-manifest.html)
 
 
 
@@ -96,7 +96,7 @@ Close and save the manifest file.
 ## 3 – Update the ASK CLI Configuration for the Skill
 
 
-Open the [ASK CLI Configuration](https://developer.amazon.com/docs/smapi/ask-cli-intro.md) file (`.ask/config`) and change it.
+Open the [ASK CLI Configuration](https://developer.amazon.com/docs/smapi/ask-cli-intro.html) file (`.ask/config`) and change it.
 > **Note**
 >
 > This file may be hidden on your computer, so you may have to open it by pasting in the location, or using a terminal text editor, such as vi or nano. 

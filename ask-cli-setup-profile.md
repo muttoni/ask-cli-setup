@@ -21,7 +21,7 @@ In this step, we will initialize a new ASK Profile and configure to be mapped to
 
 
 
-The first time you use ASK CLI, you must call the `init` command to initialize the tool with your Amazon developer account credentials. For more information, see [init command](https://developer.amazon.com/docs/smapi/ask-cli-command-reference.md#init-command).
+The first time you use ASK CLI, you must call the `init` command to initialize the tool with your Amazon developer account credentials. For more information, see [init command](https://developer.amazon.com/docs/smapi/ask-cli-command-reference.html#init-command).
 
 You will be prompted to name your profile, choose an AWS profile to use, and to log in to your Amazon developer account. Once the initialization is complete, you can use ASK CLI to manage your skill.
 
