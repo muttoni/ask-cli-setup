@@ -88,7 +88,7 @@ AWS CLI 1.11.84 (Python 3.6.1)
 
 **Troubleshooting**
 
-If after installing the `aws` command doesn't work, you may need to update your OS's `PATH` environment variable. Follow the instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-install-macos.md#awscli-install-osx-path).
+If after installing the `aws` command doesn't work, you may need to update your OS's `PATH` environment variable. Follow the instructions [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-install-macos.html#awscli-install-osx-path).
 
 
 
