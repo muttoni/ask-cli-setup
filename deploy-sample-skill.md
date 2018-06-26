@@ -62,12 +62,9 @@ ask deploy
 
 
 
-## 3 – Test the Skill
+## 3 – Test the Skill 
 
-> **Reminder: Setup your Echo Buttons** 
-> You can say, “Alexa setup my echo buttons,” 
-
-The skill can be invoked and tested on an Echo device with Echo Buttons. 
+The skill can be invoked and tested on an Echo device as well. 
 
 1. Login to the [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask).
 
